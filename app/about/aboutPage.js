@@ -1,5 +1,5 @@
 import Link from "next/link";
-import "./page.css";
+import "../globals.css";
 
 export default function About() {
   return (
